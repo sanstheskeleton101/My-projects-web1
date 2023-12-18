@@ -1,0 +1,82 @@
+.flex-conatiner { 
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(217, 129, 94);
+    height: 400;
+ 
+}
+h1 {
+    text-align: center;
+    color: #861313 
+}
+
+.flex-conatiner > div {
+    width: 10px;
+    height: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 40px;
+    color:black;
+}
+
+
+#div1 {
+    background-color: darkgreen;
+    color: indigo;
+    
+}
+
+#div2 {
+    background-color: rgb(100, 40, 0);
+    color: rgb(0, 124, 130);
+}
+
+
+#div3 {
+    background-color: rgb(83, 100, 0);
+    color: rgb(142, 111, 164);
+}
+
+
+#div4 {
+    background-color: rgb(12, 0, 100);
+    color: rgb(0, 130, 100);
+}
+
+
+
+
+#div5 {
+    background-color: rgb(100, 67, 0);
+    color: rgb(130, 0, 87);
+}
+
+
+
+
+
+#div6 {
+    background-color: rgb(85, 0, 100);
+    color: rgb(130, 0, 0);
+}
+
+
+#div7 {
+    background-color: rgb(100, 70, 0);
+    color: rgb(130, 0, 0);
+}
+
+#div8 {
+    background-color: rgb(57, 0, 100);
+    color: rgb(74, 130, 0);
+}
+
+#div9 {
+    background-color: rgb(100, 0, 0);
+    color: rgb(0, 130, 113);
+}
+
+#div10 {
+    background-color: rgb(0, 32, 100);
+    color: rgb(130, 0, 76);
+}
