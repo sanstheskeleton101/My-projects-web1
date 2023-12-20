@@ -11,7 +11,13 @@ h1 {
     color: black;
 }
 
+h2 {
+    text-align: center;
+    color: black;
+}
+
 .flex-conatiner > div {
+    background-color: white;
     width: 50px;
     height: 50px;
     margin: 50px;
@@ -21,36 +27,60 @@ h1 {
 }
 
 
-#leftdiv1 {
+#Banner {
+    background-color: white;
+    justify-content; center;
+    width: 200px;
+    height: 100px;
+    
+}
+
+#leftdiv2 {
     background-color: white;
     justify-content; center;
     width: 400px;
     height: 200px;
+
+}
+
+
+#leftdiv3 {
+    background-color: white;
+    justify-content; center;
+    width: 400px;
+    height: 200px;
+   
+}
+
+
+#TCGdiv4 {
     
-}
-
-#div2 {
     background-color: white;
-    color: rgb(0, 124, 130);
+    color: black;
 }
 
 
-#div3 {
+
+
+
+
+
+
+
+#TCGdiv5 {
     background-color: white;
-    color: rgb(142, 111, 164);
+    color: black;
 }
 
 
-#div4 {
+
+
+
+#TCGdiv6 {
     background-color: white;
-    color: rgb(0, 130, 100);
+    color: black;
 }
 
 
 
-
-#div5 {
-    background-color: white;
-    color: rgb(130, 0, 87);
-}
 
