@@ -1,6 +1,6 @@
 .flex-conatiner { 
     display: flex;
-    flex-wrap: row;
+    flex-wrap: row nowrap;
     justify content; space between;
     background-color: rgb(217, 129, 94);
     height: 400;
@@ -8,7 +8,7 @@
 }
 h1 {
     text-align: center;
-    color: #861313 
+    color: black;
 }
 
 .flex-conatiner > div {
@@ -53,32 +53,3 @@ h1 {
     color: rgb(130, 0, 87);
 }
 
-
-
-
-
-#div6 {
-    background-color: white;
-    color: rgb(130, 0, 0);
-}
-
-
-#div7 {
-    background-color: white;
-    color: rgb(130, 0, 0);
-}
-
-#div8 {
-    background-color: white;
-    color: rgb(74, 130, 0);
-}
-
-#div9 {
-    background-color: white;
-    color: rgb(0, 130, 113);
-}
-
-#div10 {
-    background-color: white;
-    color: rgb(130, 0, 76);
-}
