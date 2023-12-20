@@ -1,6 +1,6 @@
 .flex-conatiner { 
     display: flex;
-    flex-wrap: row nowrap;
+    flex-wrap: wrap;
     justify content; space between;
     background-color: rgb(217, 129, 94);
     height: 400;
