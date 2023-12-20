@@ -22,9 +22,16 @@ h1 {
 
 
 #div1 {
-    justify-content; center
     background-color: white;
-    color: indigo;
+    
+    
+}
+
+.pic {
+    justify-content; center;
+    width: 100px;
+    height: 100px;
+
     
 }
 
