@@ -1,9 +1,9 @@
 .flex-conatiner { 
     display: flex;
     flex-wrap: wrap;
-    justify content; space between;
+    justify content: space-between;
     background-color: rgb(217, 129, 94);
-    height: 400;
+    height: 400px;
  
 }
 h1 {
@@ -29,7 +29,7 @@ h2 {
 
 #Banner {
     background-color: white;
-    justify-content; center;
+    justify-content: center;
     width: 200px;
     height: 100px;
     
@@ -37,7 +37,7 @@ h2 {
 
 #leftdiv2 {
     background-color: white;
-    justify-content; start;
+    justify-content: start;
     width: 400px;
     height: 200px;
 
@@ -46,7 +46,7 @@ h2 {
 
 #leftdiv3 {
     background-color: white;
-    justify-content; start;
+    justify-content: start;
     width: 400px;
     height: 200px;
 }
@@ -54,7 +54,7 @@ h2 {
    
 #leftdiv4 {
     background-color: white;
-    justify-content; start;
+    justify-content: start;
     width: 400px;
     height: 200px;
 } 
