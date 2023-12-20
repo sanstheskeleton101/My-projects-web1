@@ -21,7 +21,7 @@ h1 {
 }
 
 
-#div1 {
+#leftdiv1 {
     background-color: white;
     
     
@@ -29,8 +29,8 @@ h1 {
 
 .pic {
     justify-content; center;
-    width: 100px;
-    height: 100px;
+    width: 400px;
+    height: 200px;
 
     
 }
